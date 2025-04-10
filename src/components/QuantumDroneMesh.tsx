@@ -1140,4 +1140,3 @@ interface ContractInterface {
 };
 
 export default QuantumDroneMesh;
-;
